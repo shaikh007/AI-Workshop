@@ -1,0 +1,185 @@
+c 1972
+c++ 1979
+python 1993
+father of python-guido van Rossum
+python handles big data
+its a platform indipendent
+python is registered under gnupl
+GPL-general public licensce
+python is open source
+
+uses of python
+1)gui-graphical user interface
+2)webdevloement
+3)hacking
+4)database installation
+5)raspberrypi
+
+software requirment
+1.python idle
+2.pycharm
+3.anaconda
+
+installation procedure for anaconda
+1. double click on the setup file
+2. select install for all user
+3. change of path
+    c:\Anaconda3
+4. check two checkboxes
+5. install
+
+steps to open a python with jupyter
+conda --version
+python --version
+conda update conda
+y
+jupyter notebook(browser will be open)
+then select the python 3
+then save the name
+notes(python)
+python print newline by default
+cannot add int
+python follows pemdas(paranthesis,exponential,multiplication,division,addition,subtraction)
+Help on built-in function bin in module builtins:
+
+bin(number, /)
+    Return the binary representation of an integer.
+    
+    >>> bin(2796202)
+    '0b1010101010101010101010'
+
+
+
+Signature: ord(c, /)
+Docstring: Return the Unicode code point for a one-character string.
+Type:      builtin_function_or_method
+
+
+
+Signature: pow(x, y, z=None, /)
+Docstring:
+Equivalent to x**y (with two arguments) or x**y % z (with three arguments)
+
+11=1011
+01=0001 anding
+   0001
+
+Docstring:
+dir([object]) -> list of strings
+
+If called without an argument, return the names in the current scope.
+
+for loop is increament automatiaclly.it will not decreament
+
+Init signature: range(self, /, *args, **kwargs)
+Docstring:     
+range(stop) -> range object
+range(start, stop[, step]) -> range object
+
+2*1=2
+.
+.
+.
+2*10=20
+
+for b in range(2,22):
+    print('2',"*",b,"=",2*b)
+(for using a multiplication)
+ to open a direct
+anaconda-navigator
+
+DATA TYPES
+
+LIST-IT IS THE COLLECTION OF HETEROGENEUOUS ELEMENT
+TUPPLE-IT IS ALSO COLLECTION OF HETEROGENEOUSE ELEMENT
+DICTIONARY-ITS A COLLECTION OF KEY AND VALUE
+SET-COLLECTION OF ELEMENTS
+
+
+SLICE
+1.single level slicing
+2.double level slicing
+
+Docstring:
+strftime(format[, tuple]) -> string
+
+Convert a time tuple to a string according to a format specification.
+See the library reference manual for formatting codes. When the time tuple
+is not present, current time as returned by localtime() is used.
+
+Commonly used format codes:
+
+%Y  Year with century as a decimal number.
+%m  Month as a decimal number [01,12].
+%d  Day of the month as a decimal number [01,31].
+%H  Hour (24-hour clock) as a decimal number [00,23].
+%M  Minute as a decimal number [00,59].
+%S  Second as a decimal number [00,61].
+%z  Time zone offset from UTC.
+%a  Locale's abbreviated weekday name.
+%A  Locale's full weekday name.
+%b  Locale's abbreviated month name.
+%B  Locale's full month name.
+%c  Locale's appropriate date and time representation.
+%I  Hour (12-hour clock) as a decimal number [01,12].
+%p  Locale's equivalent of either AM or PM.
+
+Other codes may be available on your platform.  See documentation for
+the C library strftime function.
+Type:      builtin_function_or_method
+
+adome number 
+adgaonker home
+adgaonkar shashank
+12
+144
+441
+21
+12
+
+13
+169
+961
+31
+
+14
+196
+691
+26
+
+
+
+assignment
+1.generate prime from 1 to 1000 using while loop
+2.convert normal text to non readable format
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

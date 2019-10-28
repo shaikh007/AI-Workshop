@@ -1,0 +1,11 @@
+2,3,4,10,11,12,20,25,30
+
+steps
+1.assume no of cluster k=2
+2.assume center point m1=4,m2=7
+
+{2,3,4,10,11,12}      {20,25,30}
+we got same mean again algorithm got completed
+m1=7          m2=25
+
+process of finding cluster is called elbow method

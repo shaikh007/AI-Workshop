@@ -1,0 +1,62 @@
+Third day Session
+
+machine learning
+
+types of learning
+1.supervise learning-knowing the input and knowing the output.
+2.unsupervise learning-not knowing the input but doin trying to predict the output.
+3.reinforcement learning-learning from the past feedback.
+
+problem in machine learning 
+1.regression
+2.classification
+3.clustering
+4.anomoly detection
+
+regression
+
+types:
+
+1.simple linear regression
+2.multiple linear regression
+3.polynomial linear regression
+
+simple linear regression
+
+y=mx+c
+y=dependent variable
+x=independent variable
+m=slope of the line
+c=intercept of the line
+
+area,price
+ y=price
+ x=area
+
+machine learning modules
+
+1.SK learn=sci kit learn
+
+find the regression for ecommerce
+
+
+CLASSIFICATION
+
+Lgistic regression
+y=1/1+e^-(mx+c)
+
+its works on probability 0 or 1
+it uses sigmoid graph
+
+CLUSTERING(GROUPING)
+
+k mean clustering
+
+STEPS FOR ALGORITHM
+1.find no of cluster/assume no of clusters
+2.find center points of the k cluster
+3.use euclaidian distance(sqrt((x2-x1)^2+(y1-y2)^2
+    or
+ manhattan distance(|x2-x1|+|y2-y1|)
+4.
+

@@ -1,0 +1,45 @@
+second day session
+
+AI
+
+ it is a process of making computer human intelligent.
+ it is requires two things
+ 1.actor
+ 2.enviroment
+ it is started 1959(ARTHUR SAMUEL)
+
+MACHINE LEARNING(1980)-IT IS A SUBSET OF AI
+DEEP LEARNING(2010)-IT IS A SUBSET OF ML
+
+PROCESS OF DOING AI PROGRAM
+1.GET THE DATA.
+2.ANALYZE THE DATA.
+3.CLEAN THE DATA.
+4.TRAIN THE DATA.
+5.TEST THE DATA.
+6.DEPLOY THE DATA.
+
+numpy(numerical python)
+
+3x+5y=19
+7x+4y=5
+
+find x and y?
+
+pip install (write the application name)==(version name) --user(press enter
+
+
+for i in os.listdir("chatterbot-corpus-master/chatterbot_corpus/data/english"):
+    data=open("chatterbot-corpus-master/chatterbot_corpus/data/english/"+i).readlines()
+    irfan.train(data)
+
+infininte chatting with bot
+
+while True:
+    ip=input("enter to chat")
+    if ip=='bye':
+        break 
+    if ip!='bye':
+        reply=irfan.get_response(ip)
+        print("reply is ",reply)
+
